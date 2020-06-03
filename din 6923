@@ -1,0 +1,445 @@
+<h2 style="text-align: justify;">
+Размеры: </h2>
+<p style="text-align: center;">
+ <img width="620" alt="Гайка с фланцем DIN 6923 - чертеж" src="/upload/medialibrary/762/din-6923_schema.jpg" height="614" title="Гайка с фланцем DIN 6923 - чертеж"><br>
+</p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+	<td colspan="2">
+ <b>Резьба d</b>
+	</td>
+	<td style="text-align: center;">
+ <b>M5</b>
+	</td>
+	<td style="text-align: center;">
+ <b>M6</b>
+	</td>
+	<td style="text-align: center;">
+ <b>M8</b>
+	</td>
+	<td style="text-align: center;">
+ <b>M10</b>
+	</td>
+	<td style="text-align: center;">
+ <b>M12</b>
+	</td>
+	<td style="text-align: center;">
+ <b>M14</b>
+	</td>
+	<td style="text-align: center;">
+ <b>M16</b>
+	</td>
+	<td style="text-align: center;">
+ <b>M20</b>
+	</td>
+</tr>
+<tr>
+	<td colspan="2">
+		 P
+	</td>
+	<td style="text-align: center;">
+		 0,8
+	</td>
+	<td style="text-align: center;">
+		 1
+	</td>
+	<td style="text-align: center;">
+		 1,25
+	</td>
+	<td style="text-align: center;">
+		 1,5
+	</td>
+	<td style="text-align: center;">
+		 1,75
+	</td>
+	<td style="text-align: center;">
+		 2
+	</td>
+	<td style="text-align: center;">
+		 2
+	</td>
+	<td style="text-align: center;">
+		 2,5
+	</td>
+</tr>
+<tr>
+	<td>
+		 c
+	</td>
+	<td>
+		 min.
+	</td>
+	<td style="text-align: center;">
+		 1
+	</td>
+	<td style="text-align: center;">
+		 1,1
+	</td>
+	<td style="text-align: center;">
+		 1,2
+	</td>
+	<td style="text-align: center;">
+		 1,5
+	</td>
+	<td style="text-align: center;">
+		 1,8
+	</td>
+	<td style="text-align: center;">
+		 2,1
+	</td>
+	<td style="text-align: center;">
+		 2,4
+	</td>
+	<td style="text-align: center;">
+		 3
+	</td>
+</tr>
+<tr>
+	<td rowspan="2">
+		 da
+	</td>
+	<td>
+		 min.
+	</td>
+	<td style="text-align: center;">
+		 5
+	</td>
+	<td style="text-align: center;">
+		 6
+	</td>
+	<td style="text-align: center;">
+		 8
+	</td>
+	<td style="text-align: center;">
+		 10
+	</td>
+	<td style="text-align: center;">
+		 12
+	</td>
+	<td style="text-align: center;">
+		 14
+	</td>
+	<td style="text-align: center;">
+		 16
+	</td>
+	<td style="text-align: center;">
+		 20
+	</td>
+</tr>
+<tr>
+	<td>
+		 max.
+	</td>
+	<td style="text-align: center;">
+		 5,75
+	</td>
+	<td style="text-align: center;">
+		 6,75
+	</td>
+	<td style="text-align: center;">
+		 8,75
+	</td>
+	<td style="text-align: center;">
+		 10,8
+	</td>
+	<td style="text-align: center;">
+		 13
+	</td>
+	<td style="text-align: center;">
+		 15,1
+	</td>
+	<td style="text-align: center;">
+		 17,3
+	</td>
+	<td style="text-align: center;">
+		 21,6
+	</td>
+</tr>
+<tr>
+	<td>
+		 dc
+	</td>
+	<td>
+		 max.
+	</td>
+	<td style="text-align: center;">
+		 11,8
+	</td>
+	<td style="text-align: center;">
+		 14,2
+	</td>
+	<td style="text-align: center;">
+		 17,9
+	</td>
+	<td style="text-align: center;">
+		 21,8
+	</td>
+	<td style="text-align: center;">
+		 26
+	</td>
+	<td style="text-align: center;">
+		 29,9
+	</td>
+	<td style="text-align: center;">
+		 34,5
+	</td>
+	<td style="text-align: center;">
+		 42,8
+	</td>
+</tr>
+<tr>
+	<td>
+		 dw
+	</td>
+	<td>
+		 min.
+	</td>
+	<td style="text-align: center;">
+		 9,8
+	</td>
+	<td style="text-align: center;">
+		 12,2
+	</td>
+	<td style="text-align: center;">
+		 15,8
+	</td>
+	<td style="text-align: center;">
+		 19,6
+	</td>
+	<td style="text-align: center;">
+		 23,8
+	</td>
+	<td style="text-align: center;">
+		 27,6
+	</td>
+	<td style="text-align: center;">
+		 31,9
+	</td>
+	<td style="text-align: center;">
+		 39,9
+	</td>
+</tr>
+<tr>
+	<td>
+		 e
+	</td>
+	<td>
+		 min.
+	</td>
+	<td style="text-align: center;">
+		 8,79
+	</td>
+	<td style="text-align: center;">
+		 11,05
+	</td>
+	<td style="text-align: center;">
+		 14,38
+	</td>
+	<td style="text-align: center;">
+		 16,64
+	</td>
+	<td style="text-align: center;">
+		 20,03
+	</td>
+	<td style="text-align: center;">
+		 23,36
+	</td>
+	<td style="text-align: center;">
+		 26,75
+	</td>
+	<td style="text-align: center;">
+		 32,95
+	</td>
+</tr>
+<tr>
+	<td rowspan="2">
+		 m
+	</td>
+	<td>
+		 max.
+	</td>
+	<td style="text-align: center;">
+		 5
+	</td>
+	<td style="text-align: center;">
+		 6
+	</td>
+	<td style="text-align: center;">
+		 8
+	</td>
+	<td style="text-align: center;">
+		 10
+	</td>
+	<td style="text-align: center;">
+		 12
+	</td>
+	<td style="text-align: center;">
+		 14
+	</td>
+	<td style="text-align: center;">
+		 16
+	</td>
+	<td style="text-align: center;">
+		 20
+	</td>
+</tr>
+<tr>
+	<td>
+		 min.
+	</td>
+	<td style="text-align: center;">
+		 4,7
+	</td>
+	<td style="text-align: center;">
+		 5,7
+	</td>
+	<td style="text-align: center;">
+		 7,6
+	</td>
+	<td style="text-align: center;">
+		 9,6
+	</td>
+	<td style="text-align: center;">
+		 11,6
+	</td>
+	<td style="text-align: center;">
+		 13,3
+	</td>
+	<td style="text-align: center;">
+		 15,3
+	</td>
+	<td style="text-align: center;">
+		 18,9
+	</td>
+</tr>
+<tr>
+	<td>
+		 m´
+	</td>
+	<td>
+		 min.
+	</td>
+	<td style="text-align: center;">
+		 2,2
+	</td>
+	<td style="text-align: center;">
+		 3,1
+	</td>
+	<td style="text-align: center;">
+		 4,5
+	</td>
+	<td style="text-align: center;">
+		 5,5
+	</td>
+	<td style="text-align: center;">
+		 6,7
+	</td>
+	<td style="text-align: center;">
+		 7,8
+	</td>
+	<td style="text-align: center;">
+		 9
+	</td>
+	<td style="text-align: center;">
+		 11,1
+	</td>
+</tr>
+<tr>
+	<td rowspan="2">
+		 s
+	</td>
+	<td>
+		 nominal=max.
+	</td>
+	<td style="text-align: center;">
+		 8
+	</td>
+	<td style="text-align: center;">
+		 10
+	</td>
+	<td style="text-align: center;">
+		 13
+	</td>
+	<td style="text-align: center;">
+		 15
+	</td>
+	<td style="text-align: center;">
+		 18
+	</td>
+	<td style="text-align: center;">
+		 21
+	</td>
+	<td style="text-align: center;">
+		 24
+	</td>
+	<td style="text-align: center;">
+		 30
+	</td>
+</tr>
+<tr>
+	<td>
+		 min.
+	</td>
+	<td style="text-align: center;">
+		 7,78
+	</td>
+	<td style="text-align: center;">
+		 9,78
+	</td>
+	<td style="text-align: center;">
+		 12,73
+	</td>
+	<td style="text-align: center;">
+		 14,73
+	</td>
+	<td style="text-align: center;">
+		 17,73
+	</td>
+	<td style="text-align: center;">
+		 20,67
+	</td>
+	<td style="text-align: center;">
+		 23,67
+	</td>
+	<td style="text-align: center;">
+		 29,67
+	</td>
+</tr>
+<tr>
+	<td>
+		 r
+	</td>
+	<td>
+		 max.
+	</td>
+	<td style="text-align: center;">
+		 0,3
+	</td>
+	<td style="text-align: center;">
+		 0,36
+	</td>
+	<td style="text-align: center;">
+		 0,48
+	</td>
+	<td style="text-align: center;">
+		 0,6
+	</td>
+	<td style="text-align: center;">
+		 0,72
+	</td>
+	<td style="text-align: center;">
+		 0,88
+	</td>
+	<td style="text-align: center;">
+		 0,96
+	</td>
+	<td style="text-align: center;">
+		 1,2
+	</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: right;">
+ <i>все размеры указаны в мм</i>
+</p>
